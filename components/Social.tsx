@@ -11,7 +11,7 @@ type SocialItem = {
 // update and fill in info for the socials array
 const socials: SocialItem[] = [
   { icon: <FaGithub />, path: "https://github.com/mishafu123", label: "GitHub" },
-  { icon: <FaLinkedin />, path: "https://www.linkedin.com/in/mengxue-fu-b05662326/", label: "LinkedIn" },
+  { icon: <FaLinkedin />, path: "www.linkedin.com/in/mengxue-f-b05662326", label: "LinkedIn" },
   //add twitter later?
 ];
 
